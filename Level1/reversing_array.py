@@ -9,4 +9,4 @@ def solution(n):
 
 # 다른 사람 풀이
 # def digit_reverse(n):
-#    return list(map(int, reversed(str(n))))
+#    return list(map(int, reversed(str(n)))) #reversed 사용
