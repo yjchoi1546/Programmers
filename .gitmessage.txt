@@ -2,7 +2,6 @@
 # <Commit Message Title>
 # "유형: 커밋제목" 의 형식으로 작성(ex. Docs: README.md 업데이트)
 # 50자 이내 / 첫글자는 대문자 / 끝에 마침표 금지 / 무엇을, 왜, 어떻게 설명
-level1 1문제 추가.
 # Enter, 분리를 위해 아래의 빈 줄 유지
 ################################
 # <Commit Message Content>
