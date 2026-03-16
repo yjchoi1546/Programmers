@@ -50,4 +50,6 @@ test-results/
 .dmypy.json
 .pyre/
 .pytype/
-pylint-report.txt
+pylint-report.txt/
+
+uv.lock/
