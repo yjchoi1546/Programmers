@@ -66,12 +66,3 @@ def solution(n, computers):
         i+=1
     return answer
     
-
-
-
-
-
-
-
-
-    return answer
