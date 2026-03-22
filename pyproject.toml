@@ -7,6 +7,10 @@ requires-python = ">=3.10"
 dependencies = [
     "image>=1.5.33",
     "jupyter>=1.1.1",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "tensorflow>=2.21.0",
     "torch>=2.10.0",
     "torchvision>=0.25.0",
     "transforms>=0.2.1",

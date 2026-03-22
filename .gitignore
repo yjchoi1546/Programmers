@@ -53,3 +53,4 @@ test-results/
 pylint-report.txt/
 
 uv.lock/
+data/
